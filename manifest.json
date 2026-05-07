@@ -1,6 +1,6 @@
 {
-    "name": "Avinex Escrow",
-    "short_name": "Avinex Escrow",
+    "name": "avinex_escrow_mobile",
+    "short_name": "avinex_escrow_mobile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
