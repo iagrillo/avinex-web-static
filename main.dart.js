@@ -8978,7 +8978,7 @@ $.an.toString
 s=2
 return A.i($.l0().hE(),$async$HH)
 case 2:s=3
-return A.i(A.aKm("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndwdW1tc3R2d2NuZ3JzeGR2ZHZzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU1OTE2NzAsImV4cCI6MjA5MTE2NzY3MH0.x_o971KwQ1qe5_9WCcSIEouQVUMduGcIzNNOlD7UQgU","https://wpummstvwcngrsxdvdvs.supabase.co"),$async$HH)
+return A.i(A.aKm("",""),$async$HH)
 case 3:q=$.bie()
 s=4
 return A.i(A.Di(q),$async$HH)
@@ -66072,8 +66072,8 @@ if(o.b.test(p))return p}return m}catch(n){return m}},
 z8(a,b){return this.ahu(a,b)},
 ahu(a,b){var s=0,r=A.q(t.W8),q,p=this,o,n,m,l,k
 var $async$z8=A.m(function(c,d){if(c===1)return A.n(d,r)
-for(;;)switch(s){case 0:A.i5("Supabase URL: 'https://wpummstvwcngrsxdvdvs.supabase.co'")
-A.i5("Supabase Anon Key: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndwdW1tc3R2d2NuZ3JzeGR2ZHZzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU1OTE2NzAsImV4cCI6MjA5MTE2NzY3MH0.x_o971KwQ1qe5_9WCcSIEouQVUMduGcIzNNOlD7UQgU'")
+for(;;)switch(s){case 0:A.i5("Supabase URL: ''")
+A.i5("Supabase Anon Key: ''")
 o=p.a
 s=3
 return A.i(o.gbj().z9(B.c.P(a),b),$async$z8)
@@ -66169,7 +66169,7 @@ case 1:return A.o(q,r)}})
 return A.p($async$L1,r)},
 aDz(a){var s,r,q=t.N,p=A.B(q,q),o=B.c.P(a)
 if(o.length!==0)p.m(0,"auth_flow",o)
-s=B.c.P("https://avinexescrow-avinexescrow101.vercel.app/")
+s=B.c.P("")
 if(s.length!==0){r=A.dA(s,0,null)
 if(this.ayG(r))return null
 q=A.cS(r.ghn(),q,t.z)
